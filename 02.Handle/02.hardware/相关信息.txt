@@ -1,0 +1,8 @@
+ 嘉立创链接：
+	https://oshwhub.com/peiyanyi/20240815-ur5-shou-bu-zi-tai-kong-zhi-ban
+主控板：
+	ESP32mini，芯片位esp32-c3
+	淘宝：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.f01e2e8dB3NajL&id=747401601906&_u=p2n1uorub118
+传感器：
+	MPU6500（直插模块）(淘宝：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.f01e2e8dB3NajL&id=618371584888&_u=p2n1uoru18db)
+	AS5600（焊接到PCB）(淘宝：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.f01e2e8dB3NajL&id=727363140181&_u=p2n1uoru12d7)
