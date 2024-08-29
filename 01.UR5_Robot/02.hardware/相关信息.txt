@@ -1,0 +1,7 @@
+嘉立创链接：
+ 	https://oshwhub.com/peiyanyi/20240809-ur5-kong-zhi-ban
+主控板：
+	ESP32 V1.0.0 wifi 蓝牙4MB FLASH（淘宝：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.f01e2e8dB3NajL&id=577558177645&_u=p2n1uorud991）
+模块：
+	5V降压模块，9V降压模块（淘宝https://detail.tmall.com/item.htm?id=647406210937&spm=a1z09.2.0.0.f01e2e8dB3NajL&_u=p2n1uoru0165&skuId=5170272414992）
+	2.4寸液晶屏（淘宝：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.f01e2e8dB3NajL&id=714806434317&_u=p2n1uoruc517）
